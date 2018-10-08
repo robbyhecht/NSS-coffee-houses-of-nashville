@@ -3,11 +3,13 @@
   font-weight: bold;
   background-color: lightblue;
   border: 1px solid navy;
+  margin: 5px 20px 0 20px;
 }
 
 .pageHeader {
   text-align: center;
   margin: 10px 0 15px 0;
+  font-size: 1.2em;
 }
 
 .list {
